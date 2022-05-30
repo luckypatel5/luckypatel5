@@ -1,1 +1,9 @@
-{"ip":"luckypatel58207.aternos.me","name":"bot","port":"28557"}
+{
+	"ip":"luckypatel58207.aternos.me",
+	"port": 28557,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345"
+}
